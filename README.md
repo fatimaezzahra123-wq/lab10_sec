@@ -19,7 +19,6 @@ adb devices
 L’émulateur est bien détecté avec l’état "device".
 ![screenshot](images/2.png)
 
-
 ## Installation de frida-server
 
 J’ai récupéré la version de frida-server compatible avec l’architecture de l’émulateur (x86_64).
