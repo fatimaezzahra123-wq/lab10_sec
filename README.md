@@ -11,7 +11,7 @@ J’ai installé Frida avec pip :
 pip install frida frida-tools
 Ensuite, j’ai vérifié que tout est bien installé avec :
 frida --version  
-![screenshot](images/1.png)
+![screenshot](1.png)
 
 ## Connexion avec l’émulateur Android
 J’ai utilisé ADB pour connecter mon émulateur :
