@@ -59,7 +59,7 @@ J’ai utilisé un script pour intercepter les fonctions réseau comme :
 - connect
 - send
 - recv
-Cela permet d’observer quand l’application communique avec le réseau. 
+Cela permet d’observer quand l’application communique avec le réseau
 ![adb devices](screenshots/6.png)
 
 ---
